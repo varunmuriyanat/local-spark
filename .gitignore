@@ -1,3 +1,5 @@
 .venv
 *.csv
 .vscode
+artifacts
+customers_parquet
