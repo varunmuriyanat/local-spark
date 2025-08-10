@@ -14,3 +14,10 @@ export PATH=$JAVA_HOME/bin:$PATH
 
 run code
 `python example.py`
+
+
+generate fake data
+`python fake_data.py`
+
+read csv
+`python read_csv.py`
